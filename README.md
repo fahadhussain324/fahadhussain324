@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahadhussain324
-- 👀 I’m interested in learning the concepts of computer science and eventually applying this to biomedical science.
-- 🌱 I’m currently learning CS50 Introduction to computer science.
+- 👀 I’m interested in learning the concepts of computer science
+- 🌱 I’m currently learning python, database integrations and networking.
 - 💞️ I’m looking to collaborate on biomedical software development.
 - 📫 How to reach me: message me on GitHub.
 
